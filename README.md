@@ -2,6 +2,11 @@
 
 This is a simple React Counter App built using React and Vite.
 
+## Live Demo
+
+You can check out the live project here:
+[React Counter App](https://react-counter-app-sandy.vercel.app/)
+
 ## Features
 
 * Increase counter value
@@ -14,6 +19,7 @@ This is a simple React Counter App built using React and Vite.
 * React
 * Vite
 * CSS
+* Vercel
 
 ## Acknowledgement
 
