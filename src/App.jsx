@@ -15,7 +15,7 @@ setcount(0)
   return (
     <div className='app'>
       <div className='card'>
-<h1> React counter app</h1>
+<h1> React Counter app</h1>
 <h2>{count}</h2>
 <div className='buttons'>
 <button onClick={decrease}>-</button>
